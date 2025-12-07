@@ -55,11 +55,11 @@ I’m passionate about solving real-world problems using **AI, Machine Learning,
 
 ## 💡 How I'm Improving My Profile:
 
--Creating aesthetic, well-structured project **READMEs** that simplify complex ML concepts.
--Designing custom visuals—screenshots, mockups, and GIFs—to **enhance project clarity and appeal.**
--Contributing to open-source with both **ML-driven features and impactful design improvements.**
--Exploring **Generative AI** for creative workflows while keeping up with the latest ML research.
--Building and deploying full-stack AI-powered apps with polished, user-friendly interfaces.
+- Creating aesthetic, well-structured project **READMEs** that simplify complex ML concepts.
+- Designing custom visuals—screenshots, mockups, and GIFs—to **enhance project clarity and appeal.**
+- Contributing to open-source with both **ML-driven features and impactful design improvements.**
+- Exploring **Generative AI** for creative workflows while keeping up with the latest ML research.
+- Building and deploying full-stack AI-powered apps with polished, user-friendly interfaces.
 
 ---
 
